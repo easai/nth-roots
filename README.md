@@ -1,6 +1,5 @@
 # nth-roots
 
-&#8594; [Nth roots of unity](https://github.com/easai/nth-roots/blob/main/nth-roots.ipynb)
-
-HTML Version:
-[Nth roots of unity](https://easai.github.io/nth-roots/nth-roots.html)
+Nth roots of unity
+- [Jupyter Version (Interactive)](https://github.com/easai/nth-roots/blob/main/nth-roots.ipynb)
+- [HTML Version](https://easai.github.io/nth-roots/nth-roots.html)
